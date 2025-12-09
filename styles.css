@@ -1,0 +1,33 @@
+#page{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(187, 38, 185);
+    padding: 10px;
+    border: solid black 1px;
+    border-radius: 25px;
+    text-align: center;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: none;
+    height: 550px;
+}
+#all{
+    background-color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#button{
+    background-color: goldenrod;
+    padding: 2px;
+    border: solid black 1px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 500;
+    transform: none;
+}
+#button:hover{
+    color: aliceblue;
+}
+#number{
+    width: 200px;
+    height: 40px;
+}
